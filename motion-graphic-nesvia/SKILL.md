@@ -1,5 +1,5 @@
 ---
-name: motion-graphics-by-nesvia
+name: motion-graphic-nesvia
 description: Pembuat video explainer motion graphics yang durasinya menyesuaikan voiceover, maksimal 80 detik (MP4, H.264 + AAC, 30 fps), dari sebuah topik. Claude menulis naskah voiceover lebih dulu, lalu menawarkan dan menanyakan aset (suara voiceover, gambar pendukung, video referensi, musik latar), menyinkronkan semuanya, me-render MP4, dan memverifikasi durasi file hasil render. Gunakan skill ini setiap kali user ingin membuat video motion graphic, video explainer animasi, kinetic typography, video penjelasan singkat dari sebuah topik, atau menyebut "buatkan motion graphic tentang ...", "video penjelasan singkat", atau mengunggah file bernama "Referensi Motion Graphic", "gambar1/gambar2", "Suara Voiceover" untuk dijadikan video, meskipun user tidak menyebut nama skill ini. Seluruh komunikasi dengan user memakai Bahasa Indonesia.
 ---
 
