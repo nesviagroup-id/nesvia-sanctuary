@@ -32,7 +32,7 @@ Ikuti urutan ini. Jangan loncat ke render sebelum tahap 1–3 selesai.
 User memberi topik. Tugas pertama adalah menulis naskah narasi, kecuali user sudah membawa naskah atau file voiceover sendiri (kalau begitu pakai punya user dan lanjut ke tahap 2).
 
 Pedoman naskah:
-- Panjang mengikuti kebutuhan topik. Tidak ada jumlah kata tetap, tetapi jangan melebihi sekitar 140 kata. Kecepatan baca dalam Bahasa Indonesia sekitar 2,5 kata per detik, dan total video maksimal 80 detik (sudah termasuk ±2,5 detik pembuka dan penutup). Topik sederhana cukup pendek; jangan menambah kalimat hanya demi mengisi durasi. Hitung perkiraan durasi suara dan durasi video, lalu tampilkan.
+- Panjang mengikuti kebutuhan topik. Tidak ada jumlah kata tetap, tetapi jangan melebihi sekitar 160 kata. Kecepatan baca dalam Bahasa Indonesia sekitar 2,5 kata per detik, dan total video maksimal 80 detik (sudah termasuk ±2,5 detik pembuka dan penutup). Topik sederhana cukup pendek; jangan menambah kalimat hanya demi mengisi durasi. Hitung perkiraan durasi suara dan durasi video, lalu tampilkan.
 - Struktur: hook di 3 detik pertama, lalu 2–3 poin inti, lalu penutup yang menancap. Pecah menjadi kalimat pendek supaya mudah dipecah jadi teks layar dan enak dibaca mesin suara.
 - Bahasa lisan yang jelas dan natural. Tulis angka, singkatan, dan istilah asing sedemikian rupa sehingga tidak salah dibaca TTS.
 - Jangan mengarang fakta. Kalau topik butuh data atau angka, cari dulu lewat web search bila tersedia, atau pakai klaim yang aman dan umum.
@@ -60,7 +60,7 @@ Di pesan yang sama dengan naskah (atau setelah user menyetujui naskah), tampilka
 | Gambar, ilustrasi, ikon pendukung | `gambar1`, `gambar2`, `gambar3`, dst. | Opsional | Claude membuat elemen grafis motion graphic sendiri |
 | Video referensi gaya | `Referensi Motion Graphic` | Opsional | Pakai gaya editorial minimalis default (lihat `references/panduan-visual.md`) |
 | Musik latar | `Musik Latar` | Opsional | Claude membuat musik latar sederhana, atau render tanpa musik |
-| Orientasi layar | — | Tanyakan | Default landscape 1920×1080 |
+| Orientasi layar | — | Tanyakan | Default potrait 1080×1920 |
 
 Tawarkan juga secara eksplisit opsi "serahkan saja ke Claude, buat acak/otomatis" untuk user yang tidak mau repot menyiapkan referensi.
 
